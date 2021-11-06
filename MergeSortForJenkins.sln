@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeSortForJenkins", "MergeSortForJenkins.csproj", "{0291A68B-CA10-4CEA-914F-9E3C632C5DDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0291A68B-CA10-4CEA-914F-9E3C632C5DDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0291A68B-CA10-4CEA-914F-9E3C632C5DDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0291A68B-CA10-4CEA-914F-9E3C632C5DDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0291A68B-CA10-4CEA-914F-9E3C632C5DDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21A90861-BBE5-4C17-BF59-B90004043F0E}
+	EndGlobalSection
+EndGlobal
